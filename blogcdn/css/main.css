@@ -2687,13 +2687,13 @@
 	}
 
 		table tbody tr {
-			border: solid 1px rgba(160, 160, 160, 0.3);
+			border: solid 1px rgb(114, 164, 216);
 			border-left: 0;
 			border-right: 0;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(160, 160, 160, 0.075);
+				background-color: rgba(94, 168, 245, 0.48);
 			}
 
 		table td {
